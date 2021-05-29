@@ -1,0 +1,44 @@
+{
+   "foodItems":[
+      {
+         "foodName":"Butter Chicken",
+         "foodImage":"assets/image_1.jpg"
+      },
+      {
+         "foodName":"Instant Pot Butter Chicken",
+         "foodImage":"assets/image_2.jpg"
+      },
+      {
+         "foodName":"Tandoori Chicken",
+         "foodImage":"assets/image_3.jpg"
+      },
+      {
+         "foodName":"Chicken Tikka Masala",
+         "foodImage":"assets/image_4.jpg"
+      },
+      {
+         "foodName":"Chicken Vindaloo Curry",
+         "foodImage":"assets/image_5.jpg"
+      },
+      {
+         "foodName":"Rogan Josh (Red Lamb)",
+         "foodImage":"assets/image_6.jpg"
+      },
+      {
+         "foodName":"Malai Kofta",
+         "foodImage":"assets/image_7.jpg"
+      },
+      {
+         "foodName":"Chole (Chickpea Curry)",
+         "foodImage":"assets/image_8.jpg"
+      },
+      {
+         "foodName":"Palak Paneer (Spinach and Cottage Cheese)",
+         "foodImage":"assets/image_9.jpg"
+      },
+      {
+         "foodName":"Kaali Daal (Black Lentils)",
+         "foodImage":"assets/image_10.jpg"
+      }
+   ]
+}
